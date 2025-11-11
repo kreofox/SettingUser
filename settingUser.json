@@ -1,0 +1,64 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Aura Dracula Spirit",
+    "files.autoSave": "afterDelay",
+    "workbench.startupEditor": "none",
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "{hexdiff}:/**/*.*": "hexEditor.hexedit",
+        "*.gbr": "hexEditor.hexedit"
+    },
+    "workbench.sideBar.location": "right",
+    "material-icon-theme.hidesExplorerArrows": true,
+    "workbench.tree.renderIndentGuides": "none",
+    "workbench.tree.indent": 10,
+    "explorer.compactFolders": false,
+    "editor.minimap.enabled": true,    
+    "editor.fontFamily": "Cascadia Code", 
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "Cascadia Code",
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#5f0a46d8",
+        "editor.foreground": "default",
+        "tab.border": "#ee02c7",
+        "tab.activeBackground": "#55053d86",
+        "tab.activeBorder": "#439b85",
+        "tab.activeForeground": "#ffffff",
+        "tab.inactiveBackground": "#181818",
+        "button.background": "#1d0974b2",
+        "button.hoverBackground": "#691515",
+        "button.foreground": "#ffffff",
+        "menu.background": "#181818",
+        "menu.border": "#363636",
+        "menu.foreground": "#ffffff",
+        "terminal.foreground": "#ffffff",
+        "terminal.background": "#000000",
+        "settings.checkboxBorder": "#ac138b",
+        "settings.checkboxBackground": "#ac138b",
+        "settings.checkboxForeground": "#ffffff"
+    },
+    
+    "custom-ui-style.font.sansSerif": "Cascadia Code",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.cursorBlinking": "solid",
+    "editor.cursorStyle": "underline-thin",
+    "workbench.custom-ui-style.stylesheet": {
+        "editorCursor.background": "#000000",
+        "editorOverviewRuler.wordHighlightStrongForeground": "#0000",
+        "editorOverviewRuler.selectionHighlightForeground": "#0000",
+        "editorOverviewRuler.rangeHighlightForeground": "#0000",
+        "editorOverviewRuler.wordHighlightForeground": "#0000",
+        "editorOverviewRuler.bracketMatchForeground": "#0000",
+        "editorOverviewRuler.findMatchForeground": "#0000",
+        "editorOverviewRuler.modifiedForeground": "#0000",
+        "editorOverviewRuler.deletedForeground": "#0000",
+        "editorOverviewRuler.warningForeground": "#0000",
+        "editorOverviewRuler.addedForeground": "#0000",
+        "editorOverviewRuler.errorForeground": "#0000",
+        "editorOverviewRuler.infoForeground": "#0000",
+        "editorOverviewRuler.border": "#0000"
+    }
+
+ 
+}
