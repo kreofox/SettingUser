@@ -4,3 +4,4 @@
 - Aura Spirit Dracula Theme
 - Custom Ui Style
 - Material Icon Theme
+- Background-cover
