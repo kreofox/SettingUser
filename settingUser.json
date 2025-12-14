@@ -59,6 +59,10 @@
         "editorOverviewRuler.infoForeground": "#0000",
         "editorOverviewRuler.border": "#0000"
     }
+     "backgroundCover.opacity": 0.2,
+     "backgroundCover.blur": 0,
+     "backgroundCover.imagePath": "https://images.steamusercontent.com/ugc/2509137691627326564/87BFF879AB2077BF4BA4309A4C7EA41F763856BE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+ 
 
  
 }
